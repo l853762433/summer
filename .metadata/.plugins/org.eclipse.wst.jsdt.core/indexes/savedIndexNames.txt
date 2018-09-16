@@ -1,0 +1,13 @@
+INDEX VERSION 1.4+E:\ส๎ฦฺสตัต\Summer Code\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3968935609.index
+3891070093.index
+910655025.index
+3168929946.index
+456557109.index
+2124812932.index
+3140868508.index
+2146891160.index
+3400673519.index
+2061510709.index
+2373206714.index
+3382119357.index

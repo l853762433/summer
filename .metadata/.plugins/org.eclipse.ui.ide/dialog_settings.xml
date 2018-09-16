@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\Product\Product\ProductManageSystem"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\WebVideo\9Spring Framework\day 3\spring-hibernate"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\WebVideo\9Spring Framework\day 5\spring-mvc"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\WebVideo\9Spring Framework\day 3\spring-web-demo"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\WebVideo\9Spring Framework\day 2\my-spring"/>
+		<item value="E:\暑期实训\Summer Code\springboot"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\WebVideo\9Spring Framework\day 2\ContainerDi"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\WebVideo\9Spring Framework\day 1\BeanFactory"/>
+		<item value="E:\暑期实训\Summer Code\springbb"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\Spring_4_days\spring_day02"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\Spring_4_days\spring_day01"/>
+		<item value="E:\暑期实训\Summer Code\springbb\springboot"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\DBVideo\7MyBatisV3\code\QingKeMyBatisL19"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\WebVideo\8.2JSP&amp;ServletV2\2Servlet_V3\code\QingkeCounter01"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\DBVideo\7MyBatisV3\code\LearnMybatis"/>
+		<item value="C:\Users\Administrator.PC-20180122XMIS\Desktop\暑期实训\mybatis_1\mybatis32"/>
+		<item value="E:\暑期实训\Summer Code\Learn Interface"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|微软雅黑|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="669" key="DIALOG_X_ORIGIN"/>
+			<item value="192" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

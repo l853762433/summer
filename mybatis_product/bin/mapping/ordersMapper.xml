@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 为这个mapper指定一个唯一的namespace，namespace的值习惯上设置成包名+sql映射文件名，这样就能够保证namespace的值是唯一的
+例如namespace="me.gacl.mapping.userMapper"就是me.gacl.mapping(包名)+userMapper(userMapper.xml文件去除后缀)
+ -->
+<mapper namespace="mapping.ordersMapper">
+    <!-- 第一行的code name password对应的是数据库里的字段
+    		而第二行的带＃｛｝的code name password，对应的反而是POJO里的属性 -->
+    <insert id="insertOrders" parameterType="pojo.Orders">
+   insert into orders (id,UserId,ProductId,BuyNum) values(#{id},#{UserId},#{ProductId},#{BuyNum});
+    </insert>
+    
+    
+    <delete id="deleteOrders" parameterType="int">
+    delete from orders where id=#{id};
+    </delete>
+    
+    <update id="updateOrders" parameterType="pojo.Orders">
+    update orders set UserId=#{UserId},ProductId#{ProductId}, BuyNum=#{BuyNum} where id=#{id};
+    </update>
+    
+    <select id="selectoo" resultMap="ordersMap" >
+    select * from orders;
+    </select>
+    
+    <resultMap type="pojo.Orders" id="ordersMap">
+    	<id column="id" property="id" jdbcType="INTEGER"/>
+    	<result column="userid" property="UseId" jdbcType="INTEGER" />
+    	<result column="productid" property="ProductId" jdbcType="INTEGER" />
+    	<result column="buynum" property="BuyNum" jdbcType="INTEGER" />
+    	<association property="pojo.product" column="id" ofType="pojo.product">
+    	select="mapping.productMapper.selectAll"
+    	</association>
+    </resultMap>
+   
+</mapper>

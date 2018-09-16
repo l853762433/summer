@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Apache Tomcat v9.0 (2) at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Apache Tomcat v9.0 (2) at localhost" modulesReloadableByDefault="true" name="Apache Tomcat v9.0 (2) at localhost" runtime-id="Apache Tomcat v9.0 (2)" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="8">
+    <list key="modules" value0="HelloServletWeb::org.eclipse.jst.jee.server:HelloServletWeb::jst.web::3.1" value1="Danci::org.eclipse.jst.jee.server:Danci::jst.web::3.1" value2="LearnJSP::org.eclipse.jst.jee.server:LearnJSP::jst.web::3.1" value3="Servlet_Jsp_HomeWork::org.eclipse.jst.jee.server:Servlet_Jsp_HomeWork::jst.web::3.1" value4="WebHome::org.eclipse.jst.jee.server:WebHome::jst.web::3.1" value5="springboot::org.eclipse.jst.jee.server:springboot::jst.web::3.1" value6="ProductManageSystem::org.eclipse.jst.jee.server:ProductManageSystem::jst.web::3.0"/>
+  </server>
+</servers>
